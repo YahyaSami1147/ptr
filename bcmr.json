@@ -14,12 +14,12 @@
   "identities": {
     "767e52869ea3c1acef667c84599302b2c1306743d2a11e0d05929c930c17ff63": {
       "2023-05-12T20:18:04.000Z": {
-        "name": "OTR Chipnet Tokens",
+        "name": "Z Tokens",
         "description": "OpenTokenRegistry's example fungible token issued on Chipnet, a network used for Bitcoin Cash development.\n\nIn user interfaces with limited space, descriptions may be hidden beyond 140 characters or the first newline character; this example allows for testing of hiding and revealing extended descriptions.",
         "token": {
           "category": "767e52869ea3c1acef667c84599302b2c1306743d2a11e0d05929c930c17ff63",
           "decimals": 6,
-          "symbol": "OTRC"
+          "symbol": "Z"
         },
         "splitId": "00000000040ba9641ba98a37b2e5ceead38e4e2930ac8f145c8094f94c708727",
         "uris": {
