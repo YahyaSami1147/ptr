@@ -3,7 +3,7 @@
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "latestRevision": "2023-05-13T00:00:00.000Z",
   "registryIdentity": {
-    "name": "Open Token Registry",
+    "name": "Permissioned Token Registry",
     "description": "A permissioned registry of tokens on Bitcoin Cash maintained by zapit. Publishes names, symbols, icons, and other metadata about CashTokens via a Bitcoin Cash Metadata Registry (BCMR).",
     "uris": {
       "icon": "https://otr.cash/img/open-token-registry-icon.png",
