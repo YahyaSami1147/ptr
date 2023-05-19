@@ -27,6 +27,22 @@
           "chat": "https://t.me/cashtoken_devs"
         }
       }
+    },
+    "3fb2204c5fe5d30469999851271d13607e95295863bd1411bb3b84725f655467": {
+      "2023-05-19T12:52:01.637Z": {
+        "name": "tUSD",
+        "description": "Test USD token",
+        "token": {
+          "category": "3fb2204c5fe5d30469999851271d13607e95295863bd1411bb3b84725f655467",
+          "decimals": 2,
+          "symbol": "tUSD"
+        },
+        "uris": {
+          "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+          "web": "https://tether.to/",
+          "chat": "https://t.me/cashtoken_devs"
+        }
+      }
     }
   },
   "license": "CC0-1.0"
