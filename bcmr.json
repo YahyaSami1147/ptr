@@ -45,5 +45,22 @@
       }
     }
   },
+  "1fe5245ab397bb7169cca286fa5f5086d0bdcd500039d7af7643b76a3353910d": {
+    "2023-05-19T12:52:01.637Z": {
+      "name": "Zaptians",
+      "description": "Zaptians, the team of zapt test an NFT on cashtokens",
+      "token": {
+        "category": "1fe5245ab397bb7169cca286fa5f5086d0bdcd500039d7af7643b76a3353910d",
+        "symbol": "ZAPTIANS"
+      },
+      "uris": {
+        "icon": "https://raw.githubusercontent.com/zapit-io/assets/master/logos/logo-white-medium.png",
+        "web": "https://zapit.io/",
+        "chat": "https://t.me/zapit_io"
+      }
+    }
+  }
+},
+  
   "license": "CC0-1.0"
 }
