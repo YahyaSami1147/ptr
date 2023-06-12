@@ -58,6 +58,21 @@
           "chat": "https://t.me/zapit_io"
         }
       }
+    },
+    "d4b47ded5247dad3b7db94f3c7a9584d44fd48cc2a6cd0300ebd33b8dd12ffb5": {
+      "2023-05-19T12:52:01.637Z": {
+        "name": "BCHians",
+        "description": "BCHians, the team of zapt test an NFT on cashtokens",
+        "token": {
+          "category": "1fe5245ab397bb7169cca286fa5f5086d0bdcd500039d7af7643b76a3353910d",
+          "symbol": "ZAPTIANS"
+        },
+        "uris": {
+          "icon": "https://www.zapit.io/zapit_logo.svg",
+          "web": "https://zapit.io/",
+          "chat": "https://t.me/zapit_io"
+        }
+      }
     }
   },
   "license": "CC0-1.0"
