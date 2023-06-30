@@ -1,2 +1,2 @@
-# otr
-Open Token Registry
+# ptr
+Permissioned Token Registry
