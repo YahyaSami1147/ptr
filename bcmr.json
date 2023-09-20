@@ -73,6 +73,60 @@
           "chat": "https://t.me/zapit_io"
         }
       }
+    },
+    "a083f72e72adba72dd4f0cd8178ba17ac9ec4042ff195bf984bc0c0d347f3903": {
+      "2023-09-20T12:33:53Z": {
+        "name": "Test Jack & Jones",
+        "description": "Clothing Brand",
+        "token": {
+          "category": "a083f72e72adba72dd4f0cd8178ba17ac9ec4042ff195bf984bc0c0d347f3903",
+          "symbol": "J&Jt",
+          "nfts": {
+            "description": "Clothing Brand",
+            "parse": {
+              "types": {
+                "01": {
+                  "name": "J&J T-Shirt #1",
+                  "description": "Wearable #1",
+                  "uris": {
+                    "icon": "https://images.bestsellerclothing.in/data/JJ/22-aug-2023/272446001_g1.jpg",
+                    "image": "https://images.bestsellerclothing.in/data/JJ/22-aug-2023/272446001_g1.jpg"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "Color": "black",
+                      "Size": "M",
+                      "Fabric": "Cotton",
+                      "Fit": "Slim fit",
+                      "Type": "T-Shirt",
+                      "Gender": "M"
+                    }
+                  }
+                },
+                "02": {
+                  "name": "J&J Sneaker #2",
+                  "description": "Wearable #2",
+                  "uris": {
+                    "icon": "https://images.jackjones.com/12184170/3535998/003/jackjones-syntheticsneaker-white.jpg",
+                    "image": "https://images.jackjones.com/12184170/3535998/003/jackjones-syntheticsneaker-white.jpg"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "Color": "White",
+                      "Size": "UK 8",
+                      "Fabric": "Cotton",
+                      "Type": "Sneaker"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/RomitRadical/cashtoken-test/main/eda148b16ad80cb60999ae107a04d5f4.jpg"
+        }
+      }
     }
   },
   "license": "CC0-1.0"
