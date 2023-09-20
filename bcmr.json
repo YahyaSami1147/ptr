@@ -74,12 +74,12 @@
         }
       }
     },
-    "8473d94f604de351cdee3030f6c354d36b257861ad8e95bbc0a06fbab2a2f9cf": {
+    "a083f72e72adba72dd4f0cd8178ba17ac9ec4042ff195bf984bc0c0d347f3903": {
       "2023-09-20T12:33:53Z": {
         "name": "Test Jack & Jones",
         "description": "Clothing Brand",
         "token": {
-          "category": "8473d94f604de351cdee3030f6c354d36b257861ad8e95bbc0a06fbab2a2f9cf",
+          "category": "a083f72e72adba72dd4f0cd8178ba17ac9ec4042ff195bf984bc0c0d347f3903",
           "symbol": "J&Jt",
           "nfts": {
             "description": "Clothing Brand",
