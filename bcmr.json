@@ -12,6 +12,22 @@
     }
   },
   "identities": {
+    "11c15c8aaa934d7291bb4ba6eacd831673754ba625db11ff1944f06019065b8b": {
+      "2023-12-04T03:13:17.057Z": {
+        "name": "Zapit",
+        "description": "Zapit's official reward token.",
+        "token": {
+          "category": "11c15c8aaa934d7291bb4ba6eacd831673754ba625db11ff1944f06019065b8b",
+          "decimals": 6,
+          "symbol": "ZAPT"
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/zapit-io/assets/master/logos/brandlogo-blue-medium.png",
+          "web": "https://zapit.io/",
+          "chat": "https://t.me/zapit_io"
+        }
+      }
+    },
     "767e52869ea3c1acef667c84599302b2c1306743d2a11e0d05929c930c17ff63": {
       "2023-05-12T20:18:04.000Z": {
         "name": "Z Tokens",
