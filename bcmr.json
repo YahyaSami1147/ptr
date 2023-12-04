@@ -18,11 +18,11 @@
         "description": "Zapit's official reward token.",
         "token": {
           "category": "11c15c8aaa934d7291bb4ba6eacd831673754ba625db11ff1944f06019065b8b",
-          "decimals": 6,
+          "decimals": 2,
           "symbol": "ZAPT"
         },
         "uris": {
-          "icon": "https://raw.githubusercontent.com/zapit-io/assets/master/logos/brandlogo-blue-medium.png",
+          "icon": "https://zapit.io/zapit_logo.svg",
           "web": "https://zapit.io/",
           "chat": "https://t.me/zapit_io"
         }
