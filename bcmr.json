@@ -12,13 +12,13 @@
     }
   },
   "identities": {
-    "11c15c8aaa934d7291bb4ba6eacd831673754ba625db11ff1944f06019065b8b": {
+    "a3da23aa442a3abb6fc0e633c2078ebea226a51bf3272956f42c1cc329bbb7f3": {
       "2023-12-04T03:13:17.057Z": {
         "name": "Zapit Reward Points",
         "description": "Zapit's official reward token.",
         "token": {
-          "category": "11c15c8aaa934d7291bb4ba6eacd831673754ba625db11ff1944f06019065b8b",
-          "decimals": 2,
+          "category": "a3da23aa442a3abb6fc0e633c2078ebea226a51bf3272956f42c1cc329bbb7f3",
+          "decimals": 4,
           "symbol": "ZRP"
         },
         "uris": {
