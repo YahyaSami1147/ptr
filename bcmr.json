@@ -6,9 +6,9 @@
     "name": "Permissioned Token Registry",
     "description": "A permissioned registry of tokens on Bitcoin Cash maintained by zapit. Publishes names, symbols, icons, and other metadata about CashTokens via a Bitcoin Cash Metadata Registry (BCMR).",
     "uris": {
-      "icon": "https://otr.cash/img/open-token-registry-icon.png",
-      "web": "https://otr.cash/",
-      "registry": "https://otr.cash/.well-known/bitcoin-cash-metadata-registry.json"
+      "icon": "https://zapit.io/logo.png",
+      "web": "https://zapit.io/",
+      "registry": "https://raw.githubusercontent.com/zapit-io/ptr/main/bcmr.json"
     }
   },
   "identities": {
