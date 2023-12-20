@@ -1,0 +1,33 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "latestRevision": "2023-05-13T00:00:00.000Z",
+  "registryIdentity": {
+    "name": "Permissioned Token Registry",
+    "description": "A permissioned registry of tokens on Bitcoin Cash maintained by zapit. Publishes names, symbols, icons, and other metadata about CashTokens via a Bitcoin Cash Metadata Registry (BCMR).",
+    "uris": {
+      "icon": "https://zapit.io/logo.png",
+      "web": "https://zapit.io/",
+      "registry": "https://raw.githubusercontent.com/zapit-io/ptr/main/bcmr.json"
+    }
+  },
+  "identities": {
+    "a3da23aa442a3abb6fc0e633c2078ebea226a51bf3272956f42c1cc329bbb7f3": {
+      "2023-12-04T03:13:17.057Z": {
+        "name": "Zapit Reward Points",
+        "description": "Zapit's official reward token.",
+        "token": {
+          "category": "a3da23aa442a3abb6fc0e633c2078ebea226a51bf3272956f42c1cc329bbb7f3",
+          "decimals": 4,
+          "symbol": "ZRP"
+        },
+        "uris": {
+          "icon": "https://zapit.io/logo.png",
+          "web": "https://zapit.io/",
+          "chat": "https://t.me/zapit_io"
+        }
+      }
+    },
+  },
+  "license": "CC0-1.0"
+}
