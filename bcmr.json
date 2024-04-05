@@ -988,6 +988,21 @@
           "support": "bliss2024@monsterbitar.se"
         }
       }
+    },
+    "3270f6641a815709c9c03e75e189563c1bb2f0814d8644a2181da896fb3405d0":{
+	    "2024-03-26T18:23:22.000Z":{
+		    "name":"Lovetillion",
+		    "description":"Focused on building out decentralized blockchain, machine learning and data capabilities.",
+		    "token":{
+			    "category":"3270f6641a815709c9c03e75e189563c1bb2f0814d8644a2181da896fb3405d0",
+			    "decimals":8,
+			    "symbol":"XLV"
+		    },
+		    "uris":{
+			    "icon":"https://lovetillion.org/i/xlv.png",
+			    "web":"https://lovetillion.org/"
+		    }
+	    }
     }
   },
   "license": "CC0-1.0"
