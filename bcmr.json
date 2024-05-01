@@ -1003,6 +1003,21 @@
 			    "web":"https://lovetillion.org/"
 		    }
 	    }
+    },
+    "f6677f3d3805d70949b375d36e094ff0ec9ece2a2cb1fde6d8b0e90b368f1f63":{
+	    "2024-05-01T06:00:22.000Z":{
+		    "name":"Bitcoin Cash TV",
+		    "description":"$BCHTV was created on the new Cash Tokens environment which allows creation of tokens on the Bitcoin Cash chain. 21 Million $BCHTV Tokens were created on August 1st, 2023.  $BCHTV are used as prizes given away to viewers during the Live Show.",
+		    "token":{
+			    "category":"f6677f3d3805d70949b375d36e094ff0ec9ece2a2cb1fde6d8b0e90b368f1f63",
+			    "decimals":8,
+			    "symbol":"$BCHTV"
+		    },
+		    "uris":{
+			    "icon":"https://i.imgur.com/KTJvSl7.png",
+			    "web":"https://bitcoincashtv.com/token"
+		    }
+	    }
     }
   },
   "license": "CC0-1.0"
