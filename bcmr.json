@@ -1018,6 +1018,279 @@
 			    "web":"https://bitcoincashtv.com/token"
 		    }
 	    }
+    },
+    "6668b721c80eafdda92eb11ec66241488a6dbbf67f1ca3497942819f177254bf": {
+      "2024-08-13T00:00:00.000Z": {
+        "name": "Play2Earn",
+        "description": "Play games on Zapit!",
+        "uris": {
+          "icon": "https://zapit.io/logo.png",
+          "web": "https://zapit.io/",
+          "chat": "https://t.me/zapit_io",
+          "telegram": "https://t.me/zapit_io",
+          "twitter": "https://x.com/zapit_io",
+          "youtube": "https://www.youtube.com/@ZapitWallet"
+        },
+        "token": {
+          "category": "6668b721c80eafdda92eb11ec66241488a6dbbf67f1ca3497942819f177254bf",
+          "symbol": "ZappyBirds",
+          "nfts": {
+            "parse": {
+              "types": {
+                "0100000001": {
+                  "name": "Bird #1 - Mighty Bird",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/mighty_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/mighty_bird.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "1",
+                      "hover": "3",
+                      "bounce": "3",
+                      "size": "3",
+                      "speed": "3",
+                      "strength": "2",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100000002": {
+                  "name": "Bird #2 - Speedy Bird",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/speedy_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/speedy_bird.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "1",
+                      "hover": "3",
+                      "bounce": "3",
+                      "size": "3",
+                      "speed": "5",
+                      "strength": "2",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100000003": {
+                  "name": "Bird #3 - Bouncy Bird",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/bouncy_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/bouncy_bird.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "1",
+                      "hover": "3",
+                      "bounce": "5",
+                      "size": "3",
+                      "speed": "3",
+                      "strength": "2",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100000004": {
+                  "name": "Bird #4 - Floaty Bird",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/floaty_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/floaty_bird.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "1",
+                      "hover": "5",
+                      "bounce": "3",
+                      "size": "3",
+                      "speed": "3",
+                      "strength": "2",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100000005": {
+                  "name": "Bird #5 - Tiny Bird",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/tiny_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/tiny_bird.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "1",
+                      "hover": "3",
+                      "bounce": "3",
+                      "size": "1",
+                      "speed": "3",
+                      "strength": "2",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010001": {
+                  "name": "Item #1 - 2x Multiplier",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/2x.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/2x.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "2",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010002": {
+                  "name": "Item #2 - 3x Multiplier",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/3x.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/3x.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "3",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010003": {
+                  "name": "Item #3 - 4x Multiplier",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "4",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010004": {
+                  "name": "Item #4 - Bounce",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/bounce.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/bounce.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "bounce": "5",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010005": {
+                  "name": "Item #5 - Hover",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/hover.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/hover.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "hover": "5",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010006": {
+                  "name": "Item #6 - Size",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/size.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/size.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "size": "5",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010007": {
+                  "name": "Item #7 - Speed",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/speed.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/speed.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "speed": "5",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010008": {
+                  "name": "Item #8 - Health",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/health.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/health.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "health": "5",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010009": {
+                  "name": "Item #9 - Slow Down",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/slow_down.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/slow_down.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "slow_down": "5",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010010": {
+                  "name": "Item #10 - Invisibility",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/invisibility.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/invisibility.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "invisibility": "5",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0100010011": {
+                  "name": "Item #11 - Shield",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/shield.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/shield.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "shield": "5",
+                      "expiry": "00000000"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "license": "CC0-1.0"
