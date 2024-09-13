@@ -1038,7 +1038,7 @@
             "parse": {
               "types": {
                 "0100000001": {
-                  "name": "Bird #1 - Mighty Bird",
+                  "name": "Mighty Bird",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/mighty_bird.png",
@@ -1057,7 +1057,7 @@
                   }
                 },
                 "0100000002": {
-                  "name": "Bird #2 - Speedy Bird",
+                  "name": "Speedy Bird",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/speedy_bird.png",
@@ -1076,7 +1076,7 @@
                   }
                 },
                 "0100000003": {
-                  "name": "Bird #3 - Bouncy Bird",
+                  "name": "Bouncy Bird",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/bouncy_bird.png",
@@ -1095,7 +1095,7 @@
                   }
                 },
                 "0100000004": {
-                  "name": "Bird #4 - Floaty Bird",
+                  "name": "Floaty Bird",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/floaty_bird.png",
@@ -1114,7 +1114,7 @@
                   }
                 },
                 "0100000005": {
-                  "name": "Bird #5 - Tiny Bird",
+                  "name": "Tiny Bird",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/tiny_bird.png",
@@ -1132,8 +1132,8 @@
                     }
                   }
                 },
-                "0100010001": {
-                  "name": "Item #1 - 2x Multiplier",
+                "0200000001": {
+                  "name": "2x Multiplier",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/2x.png",
@@ -1146,8 +1146,8 @@
                     }
                   }
                 },
-                "0100010002": {
-                  "name": "Item #2 - 3x Multiplier",
+                "0200000002": {
+                  "name": "3x Multiplier",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/3x.png",
@@ -1160,8 +1160,8 @@
                     }
                   }
                 },
-                "0100010003": {
-                  "name": "Item #3 - 4x Multiplier",
+                "0200000003": {
+                  "name": "4x Multiplier",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png",
@@ -1174,8 +1174,8 @@
                     }
                   }
                 },
-                "0100010004": {
-                  "name": "Item #4 - Bounce",
+                "0200000004": {
+                  "name": "Bounce",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/bounce.png",
@@ -1188,8 +1188,8 @@
                     }
                   }
                 },
-                "0100010005": {
-                  "name": "Item #5 - Hover",
+                "0200000005": {
+                  "name": "Hover",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/hover.png",
@@ -1202,8 +1202,8 @@
                     }
                   }
                 },
-                "0100010006": {
-                  "name": "Item #6 - Size",
+                "0200000006": {
+                  "name": "Size",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/size.png",
@@ -1216,8 +1216,8 @@
                     }
                   }
                 },
-                "0100010007": {
-                  "name": "Item #7 - Speed",
+                "0200000007": {
+                  "name": "Speed",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/speed.png",
@@ -1230,8 +1230,8 @@
                     }
                   }
                 },
-                "0100010008": {
-                  "name": "Item #8 - Health",
+                "0200000008": {
+                  "name": "Health",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/health.png",
@@ -1244,8 +1244,8 @@
                     }
                   }
                 },
-                "0100010009": {
-                  "name": "Item #9 - Slow Down",
+                "0200000009": {
+                  "name": "Slow Down",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/slow_down.png",
@@ -1258,8 +1258,8 @@
                     }
                   }
                 },
-                "0100010010": {
-                  "name": "Item #10 - Invisibility",
+                "0200000010": {
+                  "name": "Invisibility",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/invisibility.png",
@@ -1272,8 +1272,8 @@
                     }
                   }
                 },
-                "0100010011": {
-                  "name": "Item #11 - Shield",
+                "0200000011": {
+                  "name": "Shield",
                   "description": "",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/shield.png",
