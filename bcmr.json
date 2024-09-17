@@ -1132,6 +1132,25 @@
                     }
                   }
                 },
+		"0100000006": {
+                  "name": "Lazy Bird",
+                  "description": "",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/lazy_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/lazy_bird.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "1",
+                      "hover": "3",
+                      "bounce": "3",
+                      "size": "1",
+                      "speed": "3",
+                      "strength": "2",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
                 "0200000001": {
                   "name": "2x Multiplier",
                   "description": "",
