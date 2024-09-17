@@ -1310,7 +1310,22 @@
           }
         }
       }
-    }
-  },
+    },
+    "97026b156072d40cb4ef64303bde43539a6a72a66e7c78cd7e368d359645d368": {
+      "2024-08-12T16:12:57.462Z": {
+        "name": "Fluffy",
+        "description": "I am part marshmallow, part dog.",
+        "token": {
+          "category": "97026b156072d40cb4ef64303bde43539a6a72a66e7c78cd7e368d359645d368",
+          "symbol": "FLUFFY",
+          "decimals": 6
+        },
+        "uris": {
+          "icon": "ipfs://bafybeidgbii7co3itnjc2vxpibwnals55bi6du5lxn6f2s2lklyl4u4fee/97026b156072d40cb4ef64303bde43539a6a72a66e7c78cd7e368d359645d368.png",
+          "X": "https://x.com/fluffybch"
+        }
+      }
+     }
+    },
   "license": "CC0-1.0"
 }
