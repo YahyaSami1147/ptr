@@ -1039,7 +1039,7 @@
               "types": {
                 "0100000001": {
                   "name": "Mighty Bird",
-                  "description": "",
+                  "description": "Bigger, stronger, and always ready for action! With its default shield, Mighty Bird can take a hit and keep flying. However, its slower movement and quick drop mean you’ll need to time your taps carefully. Use its strength to your advantage, but watch out for those tight gaps!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/mighty_bird.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/mighty_bird.png"
@@ -1058,7 +1058,7 @@
                 },
                 "0100000002": {
                   "name": "Speedy Bird",
-                  "description": "",
+                  "description": "Need for speed? Speedy Bird lets you zip through the course, helping you rack up points quickly. Its fast movement requires quick reflexes—ideal for those aiming to reach the top of the leaderboard in record time!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/speedy_bird.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/speedy_bird.png"
@@ -1077,7 +1077,7 @@
                 },
                 "0100000003": {
                   "name": "Bouncy Bird",
-                  "description": "",
+                  "description": "Up, up, and away! Bouncy Bird springs higher than other characters, helping you clear higher obstacles with ease. But beware—the extra bounce could make timing tricky. A perfect pick for players who love to reach new heights!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/bouncy_bird.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/bouncy_bird.png"
@@ -1096,7 +1096,7 @@
                 },
                 "0100000004": {
                   "name": "Floaty Bird",
-                  "description": "",
+                  "description": "Glide gracefully through the course with Floaty Bird. Its smooth, slow descent and gentle bounces give you more time to plan your moves. Perfect for players who like a calm, controlled flying experience!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/floaty_bird.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/floaty_bird.png"
@@ -1115,7 +1115,7 @@
                 },
                 "0100000005": {
                   "name": "Tiny Bird",
-                  "description": "",
+                  "description": "Small but mighty! Tiny Bird’s size makes it a breeze to fly through narrow gaps. Slower speed and minimal bounce give you more control, but don’t expect to cover a lot of ground fast. Ideal for players who like to navigate with precision!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/tiny_bird.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/tiny_bird.png"
@@ -1132,9 +1132,9 @@
                     }
                   }
                 },
-		"0100000006": {
+                "0100000006": {
                   "name": "Lazy Bird",
-                  "description": "",
+                  "description": "Taking it slow and steady. Lazy Bird bounces low and moves at a leisurely pace, making it easier to pass through obstacles but harder to score quickly. If you enjoy a more relaxed pace with extra control, Lazy Bird is your go-to!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/lazy_bird.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/lazy_bird.png"
