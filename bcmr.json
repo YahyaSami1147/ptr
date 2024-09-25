@@ -1037,6 +1037,25 @@
           "nfts": {
             "parse": {
               "types": {
+                "0100000000": {
+                  "name": "Zappy Bird",
+                  "description": "Your trusty companion with balanced stats. Zappy Bird offers a straightforward flight experience—perfect for beginners or those who enjoy a classic challenge. No frills, just skills!",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/zappy_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/zappy_bird.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "1",
+                      "hover": "3",
+                      "bounce": "3",
+                      "size": "3",
+                      "speed": "3",
+                      "strength": "2",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
                 "0100000001": {
                   "name": "Mighty Bird",
                   "description": "Bigger, stronger, and always ready for action! With its default shield, Mighty Bird can take a hit and keep flying. However, its slower movement and quick drop mean you’ll need to time your taps carefully. Use its strength to your advantage, but watch out for those tight gaps!",
@@ -1153,7 +1172,7 @@
                 },
                 "0200000001": {
                   "name": "2x Multiplier",
-                  "description": "",
+                  "description": "Double your rewards! Use the 2x Score Multiplier to boost your score at the end of a game session. Activate this by burning your NFT on the game-over screen and watch your points soar!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/2x.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/2x.png"
@@ -1167,7 +1186,7 @@
                 },
                 "0200000002": {
                   "name": "3x Multiplier",
-                  "description": "",
+                  "description": "Want even bigger rewards? Apply the 3x Score Multiplier by burning the NFT at the end of your session to supercharge your final score. More points mean more bragging rights!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/3x.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/3x.png"
@@ -1181,7 +1200,7 @@
                 },
                 "0200000003": {
                   "name": "4x Multiplier",
-                  "description": "",
+                  "description": "Want even bigger rewards? Apply the 4x Score Multiplier by burning the NFT at the end of your session to supercharge your final score. More points mean more bragging rights!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png"
@@ -1195,7 +1214,7 @@
                 },
                 "0200000004": {
                   "name": "Bounce",
-                  "description": "",
+                  "description": "Reach for the sky! With Bounce, your character leaps higher, making it easier to clear tough obstacles or reach higher spots. Use it for 10 seconds to boost your character's jump height and score!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/bounce.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/bounce.png"
@@ -1209,7 +1228,7 @@
                 },
                 "0200000005": {
                   "name": "Hover",
-                  "description": "",
+                  "description": "Stay afloat longer! Hover Up slows your character's descent or decreases the gravity temporarily, giving you smoother control as you navigate through obstacles. Perfect for more relaxed and controlled gameplay for 10 seconds!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/hover.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/hover.png"
@@ -1222,8 +1241,8 @@
                   }
                 },
                 "0200000006": {
-                  "name": "Size",
-                  "description": "",
+                  "name": "Size Down",
+                  "description": "Shrink down to slip through tight spots! The Size Down power-up reduces your character's size for 10 seconds, making it easier to manoeuvre through obstacles!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/size.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/size.png"
@@ -1236,8 +1255,8 @@
                   }
                 },
                 "0200000007": {
-                  "name": "Speed",
-                  "description": "",
+                  "name": "Speed Up",
+                  "description": "Feel the need for speed? Activate Speed Up to race through obstacles and enemies faster, helping you rack up more points or complete the level in less time. But be quick— it only lasts for 10 seconds!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/speed.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/speed.png"
@@ -1251,7 +1270,7 @@
                 },
                 "0200000008": {
                   "name": "Health",
-                  "description": "",
+                  "description": "Get a second chance! The Health power-up lets you continue playing even after hitting an obstacle or getting killed by an enemy. To activate this life-saving boost, burn the Health NFT and stay in the game longer!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/health.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/health.png"
@@ -1265,7 +1284,7 @@
                 },
                 "0200000009": {
                   "name": "Slow Down",
-                  "description": "",
+                  "description": "Need more time to think? The Slow Down power-up reduces your character's speed for 10 seconds, giving you a breather as the pace of the game increases. Ideal for navigating those tricky sections!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/slow_down.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/slow_down.png"
@@ -1279,7 +1298,7 @@
                 },
                 "0200000010": {
                   "name": "Invisibility",
-                  "description": "",
+                  "description": "Move through the level unseen! Activate Invisibility to make your character vanish for 10 seconds, letting you pass right through obstacles and enemies without a scratch. This power-up stays with you, so the more NFTs you own, the more times you can use it in a session!",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/invisibility.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/invisibility.png"
@@ -1293,7 +1312,7 @@
                 },
                 "0200000011": {
                   "name": "Shield",
-                  "description": "",
+                  "description": "Protect your character with a powerful shield! Once applied, the shield lasts until you hit an obstacle or get hit by an enemy. Perfect for avoiding an untimely game over! The shield power-up stays intact, so you can use it again in future sessions.",
                   "uris": {
                     "icon": "https://storage.googleapis.com/assets-glob-bucket/games/shield.png",
                     "image": "https://storage.googleapis.com/assets-glob-bucket/games/shield.png"
@@ -1301,6 +1320,20 @@
                   "extensions": {
                     "attributes": {
                       "shield": "5",
+                      "expiry": "00000000"
+                    }
+                  }
+                },
+                "0200000012": {
+                  "name": "5x Multiplier",
+                  "description": "Want even bigger rewards? Apply the 5x Score Multiplier by burning the NFT at the end of your session to supercharge your final score. More points mean more bragging rights!",
+                  "uris": {
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png"
+                  },
+                  "extensions": {
+                    "attributes": {
+                      "multiplier": "4",
                       "expiry": "00000000"
                     }
                   }
