@@ -1065,7 +1065,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "1",
+                      "multiplier": "2",
                       "hover": "3",
                       "bounce": "3",
                       "size": "3",
@@ -1084,7 +1084,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "1",
+                      "multiplier": "2",
                       "hover": "3",
                       "bounce": "3",
                       "size": "3",
@@ -1103,7 +1103,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "1",
+                      "multiplier": "3",
                       "hover": "3",
                       "bounce": "5",
                       "size": "3",
@@ -1122,7 +1122,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "1",
+                      "multiplier": "2",
                       "hover": "5",
                       "bounce": "3",
                       "size": "3",
@@ -1141,7 +1141,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "1",
+                      "multiplier": "2",
                       "hover": "3",
                       "bounce": "3",
                       "size": "1",
@@ -1160,7 +1160,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "1",
+                      "multiplier": "2",
                       "hover": "3",
                       "bounce": "3",
                       "size": "1",
