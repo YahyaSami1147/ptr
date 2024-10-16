@@ -1019,10 +1019,10 @@
 		    }
 	    }
     },
-    "6668b721c80eafdda92eb11ec66241488a6dbbf67f1ca3497942819f177254bf": {
+    "33810fad5f4ca264e96bf584df7d634436397ee0c6c83cc855ebbf9a88368612": {
       "2024-08-13T00:00:00.000Z": {
-        "name": "Play2Earn",
-        "description": "Play games on Zapit!",
+        "name": "Zapit: Play-to-Earn",
+        "description": "Zapit: Play-to-Earn (ZapitP2E) is a NFT collection containing play-to-earn gaming assets featuring characters, items, and power-ups that can be used across all games in the Zapit ecosystem. These NFTs offer in-game utility and rewards, evolving with each new game release, making them a lasting asset for players which is also cross-game compatible.",
         "uris": {
           "icon": "https://zapit.io/logo.png",
           "web": "https://zapit.io/",
@@ -1032,8 +1032,8 @@
           "youtube": "https://www.youtube.com/@ZapitWallet"
         },
         "token": {
-          "category": "6668b721c80eafdda92eb11ec66241488a6dbbf67f1ca3497942819f177254bf",
-          "symbol": "ZappyBirds",
+          "category": "33810fad5f4ca264e96bf584df7d634436397ee0c6c83cc855ebbf9a88368612",
+          "symbol": "ZapitP2E",
           "nfts": {
             "parse": {
               "types": {
@@ -1047,12 +1047,11 @@
                   "extensions": {
                     "attributes": {
                       "multiplier": "1",
-                      "hover": "3",
-                      "bounce": "3",
-                      "size": "3",
-                      "speed": "3",
-                      "strength": "2",
-                      "expiry": "00000000"
+                      "weight": "1200",
+                      "bounce": "300",
+                      "size": "64",
+                      "speed": "3.5",
+                      "shield": "1"
                     }
                   }
                 },
@@ -1066,12 +1065,11 @@
                   "extensions": {
                     "attributes": {
                       "multiplier": "2",
-                      "hover": "3",
-                      "bounce": "3",
-                      "size": "3",
-                      "speed": "3",
-                      "strength": "2",
-                      "expiry": "00000000"
+                      "weight": "1100",
+                      "bounce": "320",
+                      "size": "74",
+                      "speed": "2.2",
+                      "shield": "1"
                     }
                   }
                 },
@@ -1085,12 +1083,11 @@
                   "extensions": {
                     "attributes": {
                       "multiplier": "2",
-                      "hover": "3",
-                      "bounce": "3",
-                      "size": "3",
-                      "speed": "5",
-                      "strength": "2",
-                      "expiry": "00000000"
+                      "weight": "1320",
+                      "bounce": "500",
+                      "size": "64",
+                      "speed": "4",
+                      "shield": "0"
                     }
                   }
                 },
@@ -1103,13 +1100,12 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "3",
-                      "hover": "3",
-                      "bounce": "5",
-                      "size": "3",
+                      "multiplier": "2",
+                      "weight": "1250",
+                      "bounce": "430",
+                      "size": "60",
                       "speed": "3",
-                      "strength": "2",
-                      "expiry": "00000000"
+                      "shield": "0"
                     }
                   }
                 },
@@ -1123,12 +1119,11 @@
                   "extensions": {
                     "attributes": {
                       "multiplier": "2",
-                      "hover": "5",
-                      "bounce": "3",
-                      "size": "3",
-                      "speed": "3",
-                      "strength": "2",
-                      "expiry": "00000000"
+                      "weight": "1200",
+                      "bounce": "250",
+                      "size": "64",
+                      "speed": "2.7",
+                      "shield": "0"
                     }
                   }
                 },
@@ -1142,31 +1137,11 @@
                   "extensions": {
                     "attributes": {
                       "multiplier": "2",
-                      "hover": "3",
-                      "bounce": "3",
-                      "size": "1",
-                      "speed": "3",
-                      "strength": "2",
-                      "expiry": "00000000"
-                    }
-                  }
-                },
-                "0100000006": {
-                  "name": "Lazy Bird",
-                  "description": "Taking it slow and steady. Lazy Bird bounces low and moves at a leisurely pace, making it easier to pass through obstacles but harder to score quickly. If you enjoy a more relaxed pace with extra control, Lazy Bird is your go-to!",
-                  "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/lazy_bird.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/lazy_bird.png"
-                  },
-                  "extensions": {
-                    "attributes": {
-                      "multiplier": "2",
-                      "hover": "3",
-                      "bounce": "3",
-                      "size": "1",
-                      "speed": "3",
-                      "strength": "2",
-                      "expiry": "00000000"
+                      "weight": "1100",
+                      "bounce": "320",
+                      "size": "42",
+                      "speed": "2.7",
+                      "shield": "0"
                     }
                   }
                 },
@@ -1179,8 +1154,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "2",
-                      "expiry": "00000000"
+                      "multiplier": "2"
                     }
                   }
                 },
@@ -1193,8 +1167,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "3",
-                      "expiry": "00000000"
+                      "multiplier": "3"
                     }
                   }
                 },
@@ -1207,8 +1180,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "4",
-                      "expiry": "00000000"
+                      "multiplier": "4"
                     }
                   }
                 },
@@ -1221,8 +1193,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "bounce": "5",
-                      "expiry": "00000000"
+                      "bounce": "1.5"
                     }
                   }
                 },
@@ -1235,8 +1206,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "hover": "5",
-                      "expiry": "00000000"
+                      "hover": "0.5"
                     }
                   }
                 },
@@ -1249,8 +1219,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "size": "5",
-                      "expiry": "00000000"
+                      "size": "0.5"
                     }
                   }
                 },
@@ -1263,8 +1232,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "speed": "5",
-                      "expiry": "00000000"
+                      "speed": "0.5"
                     }
                   }
                 },
@@ -1277,8 +1245,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "health": "5",
-                      "expiry": "00000000"
+                      "health": "1"
                     }
                   }
                 },
@@ -1291,8 +1258,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "slow_down": "5",
-                      "expiry": "00000000"
+                      "slow_down": "0.5"
                     }
                   }
                 },
@@ -1305,8 +1271,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "invisibility": "5",
-                      "expiry": "00000000"
+                      "visibility": "0"
                     }
                   }
                 },
@@ -1319,8 +1284,7 @@
                   },
                   "extensions": {
                     "attributes": {
-                      "shield": "5",
-                      "expiry": "00000000"
+                      "shield": "1"
                     }
                   }
                 },
@@ -1328,13 +1292,12 @@
                   "name": "5x Multiplier",
                   "description": "Want even bigger rewards? Apply the 5x Score Multiplier by burning the NFT at the end of your session to supercharge your final score. More points mean more bragging rights!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/5x.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/5x.png"
                   },
                   "extensions": {
                     "attributes": {
-                      "multiplier": "4",
-                      "expiry": "00000000"
+                      "multiplier": "5"
                     }
                   }
                 }
