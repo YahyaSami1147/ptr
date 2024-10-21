@@ -1,7 +1,7 @@
 {
   "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
   "version": { "major": 1, "minor": 1, "patch": 2 },
-  "latestRevision": "2023-05-13T00:00:00.000Z",
+  "latestRevision": "2024-10-21T00:00:00.000Z",
   "registryIdentity": {
     "name": "Permissioned Token Registry",
     "description": "A permissioned registry of tokens on Bitcoin Cash maintained by zapit. Publishes names, symbols, icons, and other metadata about CashTokens via a Bitcoin Cash Metadata Registry (BCMR).",
@@ -25,122 +25,6 @@
           "icon": "https://zapit.io/logo.png",
           "web": "https://zapit.io/",
           "chat": "https://t.me/zapit_io"
-        }
-      }
-    },
-    "767e52869ea3c1acef667c84599302b2c1306743d2a11e0d05929c930c17ff63": {
-      "2023-05-12T20:18:04.000Z": {
-        "name": "Z Tokens",
-        "description": "OpenTokenRegistry's example fungible token issued on mainnet, a network used for Bitcoin Cash development.\n\nIn user interfaces with limited space, descriptions may be hidden beyond 140 characters or the first newline character; this example allows for testing of hiding and revealing extended descriptions.",
-        "token": {
-          "category": "767e52869ea3c1acef667c84599302b2c1306743d2a11e0d05929c930c17ff63",
-          "decimals": 6,
-          "symbol": "Z"
-        },
-        "uris": {
-          "icon": "ipfs://bafkreig32k6kowcldesjbytktvsh47wnr72qp67ig3aldcjkkkgkx4jmnq",
-          "web": "https://otr.cash/docs/test",
-          "chat": "https://t.me/cashtoken_devs"
-        }
-      }
-    },
-    "3fb2204c5fe5d30469999851271d13607e95295863bd1411bb3b84725f655467": {
-      "2023-05-19T12:52:01.637Z": {
-        "name": "tUSD",
-        "description": "Test USD token",
-        "token": {
-          "category": "3fb2204c5fe5d30469999851271d13607e95295863bd1411bb3b84725f655467",
-          "decimals": 2,
-          "symbol": "tUSD"
-        },
-        "uris": {
-          "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
-          "web": "https://tether.to/",
-          "chat": "https://t.me/cashtoken_devs"
-        }
-      }
-    },
-    "1fe5245ab397bb7169cca286fa5f5086d0bdcd500039d7af7643b76a3353910d": {
-      "2023-05-19T12:52:01.637Z": {
-        "name": "Zaptians",
-        "description": "Zaptians, the team of zapt test an NFT on cashtokens",
-        "token": {
-          "category": "1fe5245ab397bb7169cca286fa5f5086d0bdcd500039d7af7643b76a3353910d",
-          "symbol": "ZAPTIANS"
-        },
-        "uris": {
-          "icon": "https://raw.githubusercontent.com/zapit-io/assets/master/logos/logo-white-medium.png",
-          "web": "https://zapit.io/",
-          "chat": "https://t.me/zapit_io"
-        }
-      }
-    },
-    "d4b47ded5247dad3b7db94f3c7a9584d44fd48cc2a6cd0300ebd33b8dd12ffb5": {
-      "2023-05-19T12:52:01.637Z": {
-        "name": "BCHians",
-        "description": "BCHians, the team of zapt test an NFT on cashtokens",
-        "token": {
-          "category": "d4b47ded5247dad3b7db94f3c7a9584d44fd48cc2a6cd0300ebd33b8dd12ffb5",
-          "symbol": "BCHians"
-        },
-        "uris": {
-          "icon": "https://www.zapit.io/zapit_logo.svg",
-          "web": "https://zapit.io/",
-          "chat": "https://t.me/zapit_io"
-        }
-      }
-    },
-    "a083f72e72adba72dd4f0cd8178ba17ac9ec4042ff195bf984bc0c0d347f3903": {
-      "2023-09-20T12:33:53Z": {
-        "name": "Test Jack & Jones",
-        "description": "Clothing Brand",
-        "token": {
-          "category": "a083f72e72adba72dd4f0cd8178ba17ac9ec4042ff195bf984bc0c0d347f3903",
-          "symbol": "J&Jt",
-          "nfts": {
-            "description": "Clothing Brand",
-            "parse": {
-              "types": {
-                "01": {
-                  "name": "J&J T-Shirt #1",
-                  "description": "Wearable #1",
-                  "uris": {
-                    "icon": "https://images.bestsellerclothing.in/data/JJ/22-aug-2023/272446001_g1.jpg",
-                    "image": "https://images.bestsellerclothing.in/data/JJ/22-aug-2023/272446001_g1.jpg"
-                  },
-                  "extensions": {
-                    "attributes": {
-                      "Color": "black",
-                      "Size": "M",
-                      "Fabric": "Cotton",
-                      "Fit": "Slim fit",
-                      "Type": "T-Shirt",
-                      "Gender": "M"
-                    }
-                  }
-                },
-                "02": {
-                  "name": "J&J Sneaker #2",
-                  "description": "Wearable #2",
-                  "uris": {
-                    "icon": "https://images.jackjones.com/12184170/3535998/003/jackjones-syntheticsneaker-white.jpg",
-                    "image": "https://images.jackjones.com/12184170/3535998/003/jackjones-syntheticsneaker-white.jpg"
-                  },
-                  "extensions": {
-                    "attributes": {
-                      "Color": "White",
-                      "Size": "UK 8",
-                      "Fabric": "Cotton",
-                      "Type": "Sneaker"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "uris": {
-          "icon": "https://raw.githubusercontent.com/RomitRadical/cashtoken-test/main/eda148b16ad80cb60999ae107a04d5f4.jpg"
         }
       }
     },
@@ -1020,7 +904,7 @@
 	    }
     },
     "33810fad5f4ca264e96bf584df7d634436397ee0c6c83cc855ebbf9a88368612": {
-      "2024-08-13T00:00:00.000Z": {
+      "2024-10-21T00:00:00.000Z": {
         "name": "Zapit: Play-to-Earn",
         "description": "Zapit: Play-to-Earn (ZapitP2E) is a NFT collection containing play-to-earn gaming assets featuring characters, items, and power-ups that can be used across all games in the Zapit ecosystem. These NFTs offer in-game utility and rewards, evolving with each new game release, making them a lasting asset for players which is also cross-game compatible.",
         "uris": {
@@ -1041,8 +925,8 @@
                   "name": "Zappy Bird",
                   "description": "Your trusty companion with balanced stats. Zappy Bird offers a straightforward flight experience—perfect for beginners or those who enjoy a classic challenge. No frills, just skills!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/zappy_bird.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/zappy_bird.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/zappy_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/zappy_bird.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1052,6 +936,13 @@
                       "size": "64",
                       "speed": "3.5",
                       "shield": "1"
+                    },
+                    "media": {
+                      "rive": {
+                        "url": "https://storage.googleapis.com/assets-glob-bucket/games/animations/bird_characters.riv",
+                        "identifier": "Zappy Bird",
+                        "actions": "[\"Flying\", \"Pressed\", \"Dying\"]"
+                      }
                     }
                   }
                 },
@@ -1059,8 +950,8 @@
                   "name": "Mighty Bird",
                   "description": "Bigger, stronger, and always ready for action! With its default shield, Mighty Bird can take a hit and keep flying. However, its slower movement and quick drop mean you’ll need to time your taps carefully. Use its strength to your advantage, but watch out for those tight gaps!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/mighty_bird.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/mighty_bird.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/mighty_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/mighty_bird.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1070,6 +961,13 @@
                       "size": "74",
                       "speed": "2.2",
                       "shield": "1"
+                    },
+                    "media": {
+                      "rive": {
+                        "url": "https://storage.googleapis.com/assets-glob-bucket/games/animations/bird_characters.riv",
+                        "identifier": "Mighty Bird",
+                        "actions": "[\"Flying\", \"Pressed\", \"Dying\"]"
+                      }
                     }
                   }
                 },
@@ -1077,8 +975,8 @@
                   "name": "Speedy Bird",
                   "description": "Need for speed? Speedy Bird lets you zip through the course, helping you rack up points quickly. Its fast movement requires quick reflexes—ideal for those aiming to reach the top of the leaderboard in record time!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/speedy_bird.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/speedy_bird.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/speedy_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/speedy_bird.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1088,6 +986,13 @@
                       "size": "64",
                       "speed": "4",
                       "shield": "0"
+                    },
+                    "media": {
+                      "rive": {
+                        "url": "https://storage.googleapis.com/assets-glob-bucket/games/animations/bird_characters.riv",
+                        "identifier": "Speedy Bird",
+                        "actions": "[\"Flying\", \"Pressed\", \"Dying\"]"
+                      }
                     }
                   }
                 },
@@ -1095,8 +1000,8 @@
                   "name": "Bouncy Bird",
                   "description": "Up, up, and away! Bouncy Bird springs higher than other characters, helping you clear higher obstacles with ease. But beware—the extra bounce could make timing tricky. A perfect pick for players who love to reach new heights!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/bouncy_bird.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/bouncy_bird.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/bouncy_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/bouncy_bird.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1106,6 +1011,13 @@
                       "size": "60",
                       "speed": "3",
                       "shield": "0"
+                    },
+                    "media": {
+                      "rive": {
+                        "url": "https://storage.googleapis.com/assets-glob-bucket/games/animations/bird_characters.riv",
+                        "identifier": "Bouncy Bird",
+                        "actions": "[\"Flying\", \"Pressed\", \"Dying\"]"
+                      }
                     }
                   }
                 },
@@ -1113,8 +1025,8 @@
                   "name": "Floaty Bird",
                   "description": "Glide gracefully through the course with Floaty Bird. Its smooth, slow descent and gentle bounces give you more time to plan your moves. Perfect for players who like a calm, controlled flying experience!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/floaty_bird.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/floaty_bird.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/floaty_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/floaty_bird.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1124,6 +1036,13 @@
                       "size": "64",
                       "speed": "2.7",
                       "shield": "0"
+                    },
+                    "media": {
+                      "rive": {
+                        "url": "https://storage.googleapis.com/assets-glob-bucket/games/animations/bird_characters.riv",
+                        "identifier": "Floaty Bird",
+                        "actions": "[\"Flying\", \"Pressed\", \"Dying\"]"
+                      }
                     }
                   }
                 },
@@ -1131,8 +1050,8 @@
                   "name": "Tiny Bird",
                   "description": "Small but mighty! Tiny Bird’s size makes it a breeze to fly through narrow gaps. Slower speed and minimal bounce give you more control, but don’t expect to cover a lot of ground fast. Ideal for players who like to navigate with precision!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/tiny_bird.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/tiny_bird.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/tiny_bird.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/tiny_bird.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1142,6 +1061,13 @@
                       "size": "42",
                       "speed": "2.7",
                       "shield": "0"
+                    },
+                    "media": {
+                      "rive": {
+                        "url": "https://storage.googleapis.com/assets-glob-bucket/games/animations/bird_characters.riv",
+                        "identifier": "Tiny Bird",
+                        "actions": "[\"Flying\", \"Pressed\", \"Dying\"]"
+                      }
                     }
                   }
                 },
@@ -1149,8 +1075,8 @@
                   "name": "2x Multiplier",
                   "description": "Double your rewards! Use the 2x Score Multiplier to boost your score at the end of a game session. Activate this by burning your NFT on the game-over screen and watch your points soar!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/2x.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/2x.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/2x.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/2x.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1162,8 +1088,8 @@
                   "name": "3x Multiplier",
                   "description": "Want even bigger rewards? Apply the 3x Score Multiplier by burning the NFT at the end of your session to supercharge your final score. More points mean more bragging rights!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/3x.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/3x.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/3x.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/3x.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1175,8 +1101,8 @@
                   "name": "4x Multiplier",
                   "description": "Want even bigger rewards? Apply the 4x Score Multiplier by burning the NFT at the end of your session to supercharge your final score. More points mean more bragging rights!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/4x.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/4x.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/4x.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1188,8 +1114,8 @@
                   "name": "Bounce",
                   "description": "Reach for the sky! With Bounce, your character leaps higher, making it easier to clear tough obstacles or reach higher spots. Use it for 10 seconds to boost your character's jump height and score!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/bounce.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/bounce.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/bounce.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/bounce.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1201,8 +1127,8 @@
                   "name": "Hover",
                   "description": "Stay afloat longer! Hover Up slows your character's descent or decreases the gravity temporarily, giving you smoother control as you navigate through obstacles. Perfect for more relaxed and controlled gameplay for 10 seconds!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/hover.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/hover.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/hover.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/hover.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1214,8 +1140,8 @@
                   "name": "Size Down",
                   "description": "Shrink down to slip through tight spots! The Size Down power-up reduces your character's size for 10 seconds, making it easier to manoeuvre through obstacles!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/size.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/size.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/size.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/size.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1227,8 +1153,8 @@
                   "name": "Speed Up",
                   "description": "Feel the need for speed? Activate Speed Up to race through obstacles and enemies faster, helping you rack up more points or complete the level in less time. But be quick— it only lasts for 10 seconds!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/speed.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/speed.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/speed.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/speed.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1240,8 +1166,8 @@
                   "name": "Health",
                   "description": "Get a second chance! The Health power-up lets you continue playing even after hitting an obstacle or getting killed by an enemy. To activate this life-saving boost, burn the Health NFT and stay in the game longer!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/health.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/health.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/health.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/health.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1253,8 +1179,8 @@
                   "name": "Slow Down",
                   "description": "Need more time to think? The Slow Down power-up reduces your character's speed for 10 seconds, giving you a breather as the pace of the game increases. Ideal for navigating those tricky sections!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/slow_down.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/slow_down.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/slow_down.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/slow_down.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1266,8 +1192,8 @@
                   "name": "Invisibility",
                   "description": "Move through the level unseen! Activate Invisibility to make your character vanish for 10 seconds, letting you pass right through obstacles and enemies without a scratch. This power-up stays with you, so the more NFTs you own, the more times you can use it in a session!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/invisibility.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/invisibility.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/invisibility.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/invisibility.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1279,8 +1205,8 @@
                   "name": "Shield",
                   "description": "Protect your character with a powerful shield! Once applied, the shield lasts until you hit an obstacle or get hit by an enemy. Perfect for avoiding an untimely game over! The shield power-up stays intact, so you can use it again in future sessions.",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/shield.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/shield.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/shield.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/shield.png"
                   },
                   "extensions": {
                     "attributes": {
@@ -1292,8 +1218,8 @@
                   "name": "5x Multiplier",
                   "description": "Want even bigger rewards? Apply the 5x Score Multiplier by burning the NFT at the end of your session to supercharge your final score. More points mean more bragging rights!",
                   "uris": {
-                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/5x.png",
-                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/5x.png"
+                    "icon": "https://storage.googleapis.com/assets-glob-bucket/games/icons/5x.png",
+                    "image": "https://storage.googleapis.com/assets-glob-bucket/games/images/5x.png"
                   },
                   "extensions": {
                     "attributes": {
