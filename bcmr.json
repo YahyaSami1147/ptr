@@ -1249,5 +1249,22 @@
       }
      }
     },
+	"88ed9074651b55710f6adca6a8a9e7f5c366e69ffc5b0df98afc4dedd4a5db9a": {
+      "2024-12-08T15:13:41.389Z": {
+        "name": "BabyBCH",
+        "description": "BabyBCH as the 'baby' brother of Bitcoin Cash.\nBabyBCH, the newest, tiniest (yet mightiest) member of the BCH family!\nBabyBCH is more than just adorable branding—it's the playful face of a vibrant and growing Bitcoin Cash ecosystem!",
+        "token": {
+          "category": "88ed9074651b55710f6adca6a8a9e7f5c366e69ffc5b0df98afc4dedd4a5db9a",
+          "symbol": "BBCH",
+          "decimals": 3
+        },
+        "uris": {
+          "icon": "ipfs://bafybeihjtimqwgzbowhusgkbjh4jhk6qs253pkuwarfnua76tdmva4mrfq/88ed9074651b55710f6adca6a8a9e7f5c366e69ffc5b0df98afc4dedd4a5db9a.jpg",
+          "telegram": "https://t.me/Baby_BCHOfficial",
+          "twitter": "https://twitter.com/BabyBCHOfficial",
+          "blog": "https://medium.com/@BabyBCHOfficial"
+        }
+      }
+    },
   "license": "CC0-1.0"
 }
