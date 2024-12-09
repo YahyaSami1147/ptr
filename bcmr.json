@@ -1247,9 +1247,8 @@
           "X": "https://x.com/fluffybch"
         }
       }
-     }
     },
-	"88ed9074651b55710f6adca6a8a9e7f5c366e69ffc5b0df98afc4dedd4a5db9a": {
+    "88ed9074651b55710f6adca6a8a9e7f5c366e69ffc5b0df98afc4dedd4a5db9a": {
       "2024-12-08T15:13:41.389Z": {
         "name": "BabyBCH",
         "description": "BabyBCH as the 'baby' brother of Bitcoin Cash.\nBabyBCH, the newest, tiniest (yet mightiest) member of the BCH family!\nBabyBCH is more than just adorable branding—it's the playful face of a vibrant and growing Bitcoin Cash ecosystem!",
@@ -1266,5 +1265,23 @@
         }
       }
     },
+    "4046913cba6b70b2214a048a3df92252849f481ffa1455ed7faf17243c36bf67": {
+      "2024-11-21T06:51:35.409Z": {
+        "name": "Moria USD",
+        "description": "Moria Protocol USD v1. This is an experimental run of the Moria Protocol.",
+        "token": {
+          "category": "4046913cba6b70b2214a048a3df92252849f481ffa1455ed7faf17243c36bf67",
+          "symbol": "MUSD",
+          "decimals": 2
+        },
+        "uris": {
+          "icon": "https://meta.moria.money/b1.png",
+          "web": "https://moria.money",
+          "x": "https://x.com/MoriaMoney/",
+          "telegram": "https://t.me/moriamoney"
+        }
+      }
+    }
+  },
   "license": "CC0-1.0"
 }
